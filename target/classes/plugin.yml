@@ -1,0 +1,24 @@
+name: ContrabandRemover
+version: 1.0.0
+main: tk.danatious.ContrabandRemover
+api-version: 1.13
+authors: [Danatious]
+description: Removes contraband items that make the game no fun.
+website: danatious.tk
+commands:
+  bladd:
+    description: Add item to blacklist
+    usage: /<command> [itemname]
+    permission: contrabandremover.manageblacklist
+  blremove:
+    description: Remove item from blacklist
+    usage: /<command> [itemname]
+    permission: contrabandremover.manageblacklist
+  blclear:
+    description: Clears the blacklist of all items
+    usage: /<command>
+    permission: contrabandremover.manageblacklist
+  bllist:
+    description: Lists the items in the blacklist
+    usage: /<command>
+    permission: contrabandremover.bllist

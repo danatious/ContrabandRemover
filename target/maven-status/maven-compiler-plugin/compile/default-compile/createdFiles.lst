@@ -1,0 +1,8 @@
+tk\danatious\commands\CommandListBlacklist.class
+tk\danatious\ContrabandRemover.class
+tk\danatious\commands\CommandAddBlacklist.class
+tk\danatious\commands\CommandClearBlacklist.class
+tk\danatious\BlacklistManager.class
+tk\danatious\EventListener.class
+tk\danatious\commands\CommandRemoveBlacklist.class
+tk\danatious\Purger.class
